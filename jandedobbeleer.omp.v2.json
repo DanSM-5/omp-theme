@@ -167,6 +167,7 @@
       "type": "prompt"
     },
     {
+      "alignment": "right",
       "segments": [
         {
           "background": "#0077c2",
